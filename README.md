@@ -4,5 +4,5 @@ This was done as an exercise in the DigitalCrafts bootcamp. We used Dribble for 
 
 ## Dribble Inspiration vs. My Attempt
 
-<img width=300 src="https://github.com/alyssadicarlo/dribble_design/blob/main/images/screenshot_dribble.png?raw=true">
-<img width=300 src="https://github.com/alyssadicarlo/dribble_design/blob/main/images/screenshot.png?raw=true">
+<img src="https://github.com/alyssadicarlo/dribble_design/blob/main/images/screenshot_dribble.png?raw=true">
+<img src="https://github.com/alyssadicarlo/dribble_design/blob/main/images/screenshot.png?raw=true">
